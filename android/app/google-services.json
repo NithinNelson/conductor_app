@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571723352915",
+    "project_id": "conductor-app-7617e",
+    "storage_bucket": "conductor-app-7617e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571723352915:android:d8dd5f156839c823c5afa6",
+        "android_client_info": {
+          "package_name": "com.example.conductor_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571723352915-6l1eahblam7q0euq2tatv4guh1keattb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrIDtkYBHgOb_g5rjmPOMtc7K_N91JrVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571723352915-6l1eahblam7q0euq2tatv4guh1keattb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
